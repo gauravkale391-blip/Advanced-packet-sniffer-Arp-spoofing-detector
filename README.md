@@ -120,7 +120,6 @@ In short — this project turns a common but dangerous network attack into a **l
   </tr>
   <tr>
     <td align="center"><b>📡 Live Packet Capture</b></td>
-    <td align="center"><b>🚨 ARP Spoofing Alert</b></td>
   </tr>
   <tr>
     <td><img src="screenshots/live_packet_capture.png" alt="Live Packet Capture" width="400"/></td>
@@ -131,7 +130,7 @@ In short — this project turns a common but dangerous network attack into a **l
   </tr>
   <tr>
     <td><img src="screenshots/dashboard-map.png" alt="Threat Intelligence GeoIP" width="400"/></td>
-    <td><img src="screenshots/pdf-report.png" alt="PDF Incident Report" width="400"/></td>
+    <td><img src="screenshots/pdf_report.png" alt="PDF Incident Report" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><b>✉️ Gmail Alert</b></td>
@@ -139,8 +138,14 @@ In short — this project turns a common but dangerous network attack into a **l
   </tr>
   <tr>
     <td><img src="screenshots/gmail_alert.png" alt="Gmail Alert" width="400"/></td>
-    <td><img src="<img width="1198" height="1313" alt="architecture1" src="https://github.com/user-attachments/assets/70d41795-3bd3-4de8-9623-6930ef3d7885" />
-" alt="System Architecture" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/70d41795-3bd3-4de8-9623-6930ef3d7885" />
+  </tr>
+  <tr>
+    <td align="center"><b>🏗️ System Architecture</b></td>
+  </tr>
+  <tr>
+    <td><img src="<img width="1198" height="1313" alt="architecture1" src="https://github.com/user-attachments/assets/9d80e69c-338b-4896-9250-08ea69e0ba4f" />
+</td>
   </tr>
 </table>
 
