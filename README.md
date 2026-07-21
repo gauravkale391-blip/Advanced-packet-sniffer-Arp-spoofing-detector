@@ -140,13 +140,6 @@ In short — this project turns a common but dangerous network attack into a **l
     <td><img src="screenshots/gmail_alert.png" alt="Gmail Alert" width="400"/></td>
     <td><img src="https://github.com/user-attachments/assets/70d41795-3bd3-4de8-9623-6930ef3d7885" />
   </tr>
-  <tr>
-    <td align="center"><b>🏗️ System Architecture</b></td>
-  </tr>
-  <tr>
-    <td><img src="<img width="1198" height="1313" alt="architecture1" src="https://github.com/user-attachments/assets/9d80e69c-338b-4896-9250-08ea69e0ba4f" />
-</td>
-  </tr>
 </table>
 
 > 📌 Save the actual screenshots inside the `screenshots/` folder with the exact filenames above (`login.png`, `dashboard-overview.png`, `live-packet-capture.png`, `arp-spoofing-alert.png`, `threat-intelligence-geoip.png`, `pdf-incident-report.png`, `gmail-alert.png`, `architecture.png`) — GitHub will render them automatically once pushed.
